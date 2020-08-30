@@ -17,11 +17,14 @@ Here are some ideas to get you started:
 
 🎓 I`am a college student 
 
+#### My website
+http://www.stayfoolish.vip/
 
+#### My blog
+https://isalbertliu.github.io/
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=IsAlbertLiu&show_icons=true&theme=tokyonight&line_height=21"  />
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsAlbertLiu&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-  <br>
-
 </p>
